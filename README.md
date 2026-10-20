@@ -9,6 +9,7 @@ Instalador oficial do CA Antivírus para Windows 10 e 11 (64 bits). Baixe **CA-A
 - Inclui o ClamAV como verificador adicional sob demanda. Atualize as assinaturas neste computador antes de analisar pastas.
 - Mantém uma quarentena reversível própria para os resultados do scanner adicional.
 - A limpeza temporária ignora arquivos em uso. Ela pede autorização do Windows antes de limpar as pastas do sistema.
+- Envia somente contagens agregadas de aberturas, instalações únicas e atividade diária ao Painel CA Sys. Não envia nomes, IDs do computador, caminhos, arquivos ou resultados de verificação; o serviço de contagem recebe os dados normais da conexão de rede.
 
 ## Limites
 
